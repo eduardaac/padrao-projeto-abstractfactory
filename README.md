@@ -6,7 +6,7 @@ O objetivo é simular **a criação de diferentes famílias de produtos (Pizza e
 ---
 ## 📌 Diagrama de Classes
 
-![Diagrama UML](diagrama_de_classes.jpg)
+![Diagrama UML](diagrama_de_classes.jpeg)
 
 ---
 
