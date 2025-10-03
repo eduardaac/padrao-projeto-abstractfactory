@@ -12,4 +12,4 @@ O objetivo é simular **a criação de diferentes famílias de produtos (Pizza e
 
 ## 👩‍💻 Autora
 
-**Eduarda Araujo Carvalho** ```
+**Eduarda Araujo Carvalho** 
