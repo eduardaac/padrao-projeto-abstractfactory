@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">{}</component>
+  <component name="RunManager">
+    <configuration name="CardapioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padroesprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="padroescriacao.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="padroescriacao.abstractfactory" />
+      <option name="MAIN_CLASS_NAME" value="padroescriacao.abstractfactory.CardapioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CardapioTest" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
